@@ -7,9 +7,9 @@
 14/08/2022	---	5.5 hr JS, 1.0 hr research, 3.0 hr ML
 15/08/2022	---	4.5 hr ML, 2.0 hr research
 16/08/2022	---	2.0 hr research
-17/08/2022	---	
-18/08/2022	---	
-19/08/2022	---	
+17/08/2022	---	4.5 hr C for college, 1.0 hr ML, 1.0 hr research 4.0 hr Android UI
+18/08/2022	---	4.0 hr Android User Input
+19/08/2022	---	9.0 hr Android MultiScreen and GIT
 20/08/2022	---	
 21/08/2022	---	
 22/08/2022	---	
